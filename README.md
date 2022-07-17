@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am Athos and I am currently preparing for postgraduate test of my artificial intelligence Master degree !  
 
-<img align="right" alt="img" src="https://github.com/AthosDemo/AthosDemo/blob/master/self-portrait.jpg" width="40%" height="auto" />
+<img align="right" alt="img" src="https://github.com/AthosDemo/AthosDemo/blob/master/self-portrait.jpg" width="35%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
@@ -39,4 +39,12 @@ Welcome to my Github page! I am Athos and I am currently preparing for postgradu
 
 </p>
 
-
+### Support me😍
+<p align="center">
+  <a">
+    <img width="18%" alt="支付宝支持" src="https://github.com/AthosDemo/AthosDemo/blob/master/Alipay.jpg"/>
+  </a>
+  <a>
+      <img width="18%" alt="微信支持" src="https://github.com/AthosDemo/AthosDemo/blob/master/weixin.jpg"/>
+  </a>
+</p>
