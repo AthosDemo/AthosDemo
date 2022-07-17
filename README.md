@@ -45,6 +45,6 @@ Welcome to my Github page! I am Athos and I am currently preparing for postgradu
     <img width="25%" align="left"  alt="支付宝支持" src="https://github.com/AthosDemo/AthosDemo/blob/master/Alipay.jpg"/>
   </a>
   <a>
-      <img width="25%" align="right" alt="微信支持" src="https://github.com/AthosDemo/AthosDemo/blob/master/weixin.jpg"/>
+      <img width="25%" align="left" alt="微信支持" src="https://github.com/AthosDemo/AthosDemo/blob/master/weixin.jpg"/>
   </a>
 </p>
