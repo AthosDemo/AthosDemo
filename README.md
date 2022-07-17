@@ -11,12 +11,14 @@ Welcome to my Github page! I am Athos and I am currently preparing for postgradu
 
 
 #### 🌱 Things I am currently working on: 
+
 - Taking part in the postgraduate entrance exams 
 - Learning English
 - Studying advanced mathematics
 
 
 #### :muscle: Things I am challenging myself with:
+
 - Waking up earlier to make good use of the day
 - Coding at least 4 hours a day
 - Exercising 3 days a week
