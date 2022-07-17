@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am Athos and I am currently preparing for postgraduate test of my artificial intelligence Master degree !  
 
-<img align="right" alt="img" src="https://github.com/AthosDemo/AthosDemo/blob/master/self-portrait.jpg" width="35%" height="auto" />
+<img align="right" alt="img" src="https://github.com/AthosDemo/AthosDemo/blob/master/self-portrait.jpg" width="40%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
