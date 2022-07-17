@@ -24,7 +24,7 @@ Welcome to my Github page! I am Athos and I am currently preparing for postgradu
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="70%" align="right" src="https://github-readme-stats.vercel.app/api?username=AthosDemo&hide_title=true&hide_border=true&locale=cn" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=AthosDemo&hide_title=true&hide_border=true&locale=cn" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
